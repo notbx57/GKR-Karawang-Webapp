@@ -1,1 +1,1 @@
-Ini codebase website gkr karawang
+Ini adalah webapp GKR Karawang
